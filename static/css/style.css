@@ -1,0 +1,226 @@
+body {
+    background: #999;
+    color: #fff;
+    padding: 0px;
+    font-family: sans-serif;
+  }
+  
+  .navbar ul li {
+  color: #fff;
+  display: inline-block;
+  height:40px;
+  line-height:30px;
+  font-family:cursive;
+  padding-left:20px;
+  padding-right:20px;
+  font-size:25px
+  }
+  
+  .navbar { 
+    background: #50555c;
+    height: 65px; 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-left:0px;
+    padding-left:0px;
+  }
+  
+  .titledisplay {
+    font-size: 26px;
+    color: #224;
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+  
+  .subtitle {
+  font-size: 18px;
+  margin-top: 0px;
+  padding: 0px;
+  }
+  
+  .benefitstitle {
+  font-size: 18px;
+  margin-top: 0px;
+  padding: 0px;
+  }
+  
+  .introtitle {
+  font-size: 18px;
+  margin-top: 0px;
+  padding: 0px;
+  }
+  
+  th {
+  background: #224;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  padding: 10px;
+  width: 25%;
+  border: 1px solid black;
+  font-size: 18px;
+  }
+  
+  tr {
+    background: #88CCf1;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+  }
+  
+  td {
+    background: #88CCF1;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 20px;
+    text-align: center;
+    width: 25%;
+    border: 1px solid black;
+    font-size: 18px;
+  }
+  
+  .weblink {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .logolink {
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  
+  .consultlink {
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+   
+  .adlink {
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+  
+  .applink {
+    padding-left: 7%;
+    padding-right: 5%;
+  }
+  
+  .webdevphoto {
+    padding: 1%;
+  }
+  
+  .logophoto {
+    padding: 1%;
+  }
+  
+  .consultphoto {
+    padding:1%;
+  }
+  
+  .adphoto {
+    padding: 1%;
+  }
+  
+  .appphoto {
+    padding: 1%;
+  }
+  
+  .icilink {
+  padding-left: 10%;
+  padding-right: 10%;
+  }
+  
+  .mwlblink{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  .ggolink {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  .iciphoto {
+    padding-left: 5%;
+    padding-right: 6%;
+  }
+  
+  .mwlbphoto{
+    padding-left: 5%;
+    padding-right: 7%;
+  }
+  
+  .ggophoto {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  
+  .container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  .ciphoto {
+    max-width: 60%;
+    max-height:40%;
+  
+  }
+  
+  .citext {
+    font-size: 20px;
+    padding-left: 7%;
+  }
+  
+  .founderpage {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+  
+  
+  .mtftext {
+    font-size: 18px;
+    padding-left: 20%;
+  }
+  
+  .ourstory {
+    font-size: 18px;
+  }
+  
+  h1 {
+    font-size: 55px;
+  }
+  
+  h2 {
+    font-size: 35px;
+  }
+  
+  h3 {
+    font-size: 20px;
+  }
+  
+  .promoone {
+    border: 1px solid blue;
+    float: left;
+    margin-left: 1.5%;
+    width: 31%;
+    text-align: center;
+  }
+  
+  
+  .promotwo {
+     border: 1px solid blue;
+    float: left;
+    margin-left: 2%;
+    width: 31%;
+    text-align: center;
+  }
+  
+  .promothree {
+     border: 1px solid blue;
+    float: left;
+    margin-left: 2%;
+    width: 31%;
+    text-align: center;
+  }
+  
